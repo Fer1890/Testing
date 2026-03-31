@@ -1,0 +1,67 @@
+import csv
+import os
+
+def generate_regional_urls():
+    input_file = 'base_urls.csv'
+    output_file = 'input_urls.csv'
+    
+    # The 13 Canadian Provinces and Territories
+    provinces = ['ab', 'bc', 'mb', 'nb', 'nl', 'ns', 'nt', 'nu', 'on', 'pe', 'qc', 'sk', 'yt']
+    
+    if not os.path.exists(input_file):
+        print(f"Error: Please create a file named '{input_file}' in this folder.")
+        return
+
+    generated_count = 0
+    
+    try:
+        with open(input_file, 'r', encoding='utf-8') as infile, \
+             open(output_file, 'w', newline='', encoding='utf-8') as outfile:
+            
+            reader = csv.DictReader(infile)
+            
+            # Ensure the input CSV has the right columns
+            if not reader.fieldnames or not {'url', 'page_name'}.issubset(set(reader.fieldnames)):
+                print("Error: base_urls.csv must have 'url' and 'page_name' columns.")
+                return
+
+            writer = csv.DictWriter(outfile, fieldnames=['url', 'page_name'])
+            writer.writeheader()
+            
+            for row in reader:
+                base_url = row['url'].strip()
+                base_name = row['page_name'].strip()
+                
+                if not base_url:
+                    continue
+                    
+                for prov in provinces:
+                    new_url = base_url
+                    
+                    # Inject the province code after the language directory
+                    if '/en/' in base_url:
+                        new_url = base_url.replace('/en/', f'/en/{prov}/', 1)
+                    elif '/fr/' in base_url:
+                        new_url = base_url.replace('/fr/', f'/fr/{prov}/', 1)
+                    else:
+                        print(f"Warning: Could not find /en/ or /fr/ in URL: {base_url}")
+                        # Fallback: Just append it if standard structure is missing
+                        new_url = f"{base_url}/{prov}"
+                        
+                    # Tag the page name with the province for your final reports
+                    new_name = f"{base_name} - {prov.upper()}"
+                    
+                    writer.writerow({
+                        'url': new_url,
+                        'page_name': new_name
+                    })
+                    generated_count += 1
+                    
+        print(f"Success! Generated {generated_count} regional URLs and saved to '{output_file}'.")
+        print("You can now run your main searcher script using this file.")
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    generate_regional_urls()
