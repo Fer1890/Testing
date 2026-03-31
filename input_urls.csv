@@ -1,0 +1,1574 @@
+url,page_name
+https://www.telus.com/en/ab/business/small,Homepage default - AB
+https://www.telus.com/en/bc/business/small,Homepage default - BC
+https://www.telus.com/en/mb/business/small,Homepage default - MB
+https://www.telus.com/en/nb/business/small,Homepage default - NB
+https://www.telus.com/en/nl/business/small,Homepage default - NL
+https://www.telus.com/en/ns/business/small,Homepage default - NS
+https://www.telus.com/en/nt/business/small,Homepage default - NT
+https://www.telus.com/en/nu/business/small,Homepage default - NU
+https://www.telus.com/en/on/business/small,Homepage default - ON
+https://www.telus.com/en/pe/business/small,Homepage default - PE
+https://www.telus.com/en/qc/business/small,Homepage default - QC
+https://www.telus.com/en/sk/business/small,Homepage default - SK
+https://www.telus.com/en/yt/business/small,Homepage default - YT
+https://www.telus.com/en/ab/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - AB
+https://www.telus.com/en/bc/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - BC
+https://www.telus.com/en/mb/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - MB
+https://www.telus.com/en/nb/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - NB
+https://www.telus.com/en/nl/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - NL
+https://www.telus.com/en/ns/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - NS
+https://www.telus.com/en/nt/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - NT
+https://www.telus.com/en/nu/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - NU
+https://www.telus.com/en/on/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - ON
+https://www.telus.com/en/pe/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - PE
+https://www.telus.com/en/qc/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - QC
+https://www.telus.com/en/sk/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - SK
+https://www.telus.com/en/yt/business/small?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Homepage cart abandonment - YT
+https://www.telus.com/en/ab/business/small/deals-and-offers,Offers default - AB
+https://www.telus.com/en/bc/business/small/deals-and-offers,Offers default - BC
+https://www.telus.com/en/mb/business/small/deals-and-offers,Offers default - MB
+https://www.telus.com/en/nb/business/small/deals-and-offers,Offers default - NB
+https://www.telus.com/en/nl/business/small/deals-and-offers,Offers default - NL
+https://www.telus.com/en/ns/business/small/deals-and-offers,Offers default - NS
+https://www.telus.com/en/nt/business/small/deals-and-offers,Offers default - NT
+https://www.telus.com/en/nu/business/small/deals-and-offers,Offers default - NU
+https://www.telus.com/en/on/business/small/deals-and-offers,Offers default - ON
+https://www.telus.com/en/pe/business/small/deals-and-offers,Offers default - PE
+https://www.telus.com/en/qc/business/small/deals-and-offers,Offers default - QC
+https://www.telus.com/en/sk/business/small/deals-and-offers,Offers default - SK
+https://www.telus.com/en/yt/business/small/deals-and-offers,Offers default - YT
+https://www.telus.com/en/ab/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - AB
+https://www.telus.com/en/bc/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - BC
+https://www.telus.com/en/mb/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - MB
+https://www.telus.com/en/nb/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - NB
+https://www.telus.com/en/nl/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - NL
+https://www.telus.com/en/ns/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - NS
+https://www.telus.com/en/nt/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - NT
+https://www.telus.com/en/nu/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - NU
+https://www.telus.com/en/on/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - ON
+https://www.telus.com/en/pe/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - PE
+https://www.telus.com/en/qc/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - QC
+https://www.telus.com/en/sk/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - SK
+https://www.telus.com/en/yt/business/small/deals-and-offers?qa_variations=W3sibWJveCI6InNtYi1ocC1vZmZlcnMtY2Fyb3VzZWwiLCJwcmV2aWV3VG9rZW4iOiJ1WVVnNzd6ek9PTVBnR2tOYzNGN2x3IiwiYWN0aXZpdHlJbmRleCI6MSwiZXhwZXJpZW5jZUluZGV4IjoyLCJhdWRpZW5jZUlkIjoiMCwxMDY2OTU0NiJ9LHsibWJveCI6InNtYi1vZmZlcnMtYWxsLW9mZmVycyIsInByZXZpZXdUb2tlbiI6InVZVWc3N3p6T09NUGdHa05jM0Y3bHciLCJhY3Rpdml0eUluZGV4IjoxLCJleHBlcmllbmNlSW5kZXgiOjIsImF1ZGllbmNlSWQiOiIwLDEwNjY5NTQ2In1d,Offers cart abandonment - YT
+https://www.telus.com/en/ab/business/small/mobility/cell-phone-plans,Cell phone plans page - AB
+https://www.telus.com/en/bc/business/small/mobility/cell-phone-plans,Cell phone plans page - BC
+https://www.telus.com/en/mb/business/small/mobility/cell-phone-plans,Cell phone plans page - MB
+https://www.telus.com/en/nb/business/small/mobility/cell-phone-plans,Cell phone plans page - NB
+https://www.telus.com/en/nl/business/small/mobility/cell-phone-plans,Cell phone plans page - NL
+https://www.telus.com/en/ns/business/small/mobility/cell-phone-plans,Cell phone plans page - NS
+https://www.telus.com/en/nt/business/small/mobility/cell-phone-plans,Cell phone plans page - NT
+https://www.telus.com/en/nu/business/small/mobility/cell-phone-plans,Cell phone plans page - NU
+https://www.telus.com/en/on/business/small/mobility/cell-phone-plans,Cell phone plans page - ON
+https://www.telus.com/en/pe/business/small/mobility/cell-phone-plans,Cell phone plans page - PE
+https://www.telus.com/en/qc/business/small/mobility/cell-phone-plans,Cell phone plans page - QC
+https://www.telus.com/en/sk/business/small/mobility/cell-phone-plans,Cell phone plans page - SK
+https://www.telus.com/en/yt/business/small/mobility/cell-phone-plans,Cell phone plans page - YT
+https://www.telus.com/en/ab/business/small/mobility,Mobility explore page - AB
+https://www.telus.com/en/bc/business/small/mobility,Mobility explore page - BC
+https://www.telus.com/en/mb/business/small/mobility,Mobility explore page - MB
+https://www.telus.com/en/nb/business/small/mobility,Mobility explore page - NB
+https://www.telus.com/en/nl/business/small/mobility,Mobility explore page - NL
+https://www.telus.com/en/ns/business/small/mobility,Mobility explore page - NS
+https://www.telus.com/en/nt/business/small/mobility,Mobility explore page - NT
+https://www.telus.com/en/nu/business/small/mobility,Mobility explore page - NU
+https://www.telus.com/en/on/business/small/mobility,Mobility explore page - ON
+https://www.telus.com/en/pe/business/small/mobility,Mobility explore page - PE
+https://www.telus.com/en/qc/business/small/mobility,Mobility explore page - QC
+https://www.telus.com/en/sk/business/small/mobility,Mobility explore page - SK
+https://www.telus.com/en/yt/business/small/mobility,Mobility explore page - YT
+https://www.telus.com/en/ab/business/small/internet,SMB Internet Landing Page - AB
+https://www.telus.com/en/bc/business/small/internet,SMB Internet Landing Page - BC
+https://www.telus.com/en/mb/business/small/internet,SMB Internet Landing Page - MB
+https://www.telus.com/en/nb/business/small/internet,SMB Internet Landing Page - NB
+https://www.telus.com/en/nl/business/small/internet,SMB Internet Landing Page - NL
+https://www.telus.com/en/ns/business/small/internet,SMB Internet Landing Page - NS
+https://www.telus.com/en/nt/business/small/internet,SMB Internet Landing Page - NT
+https://www.telus.com/en/nu/business/small/internet,SMB Internet Landing Page - NU
+https://www.telus.com/en/on/business/small/internet,SMB Internet Landing Page - ON
+https://www.telus.com/en/pe/business/small/internet,SMB Internet Landing Page - PE
+https://www.telus.com/en/qc/business/small/internet,SMB Internet Landing Page - QC
+https://www.telus.com/en/sk/business/small/internet,SMB Internet Landing Page - SK
+https://www.telus.com/en/yt/business/small/internet,SMB Internet Landing Page - YT
+https://www.telus.com/en/ab/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - AB
+https://www.telus.com/en/bc/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - BC
+https://www.telus.com/en/mb/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - MB
+https://www.telus.com/en/nb/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - NB
+https://www.telus.com/en/nl/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - NL
+https://www.telus.com/en/ns/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - NS
+https://www.telus.com/en/nt/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - NT
+https://www.telus.com/en/nu/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - NU
+https://www.telus.com/en/on/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - ON
+https://www.telus.com/en/pe/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - PE
+https://www.telus.com/en/qc/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - QC
+https://www.telus.com/en/sk/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - SK
+https://www.telus.com/en/yt/business/small/mobility/devices/category/phones,SMB Smartphone Catalog - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s26-ultra,Galaxy S26 Ultra - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s26-plus,Galaxy S26+ - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s26,Galaxy S26 - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-air,iPhone Air - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-air,iPhone Air - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-air,iPhone Air - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-air,iPhone Air - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-air,iPhone Air - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-air,iPhone Air - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-air,iPhone Air - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-air,iPhone Air - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-air,iPhone Air - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-air,iPhone Air - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-air,iPhone Air - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-air,iPhone Air - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-air,iPhone Air - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-16-pro?INTCMP=tcom_mob_phones_card_iPhone-16-Pro&sku=NLAIP16P128GL,iPhone 16 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-16-pro-max?INTCMP=tcom_mob_phones_card_iPhone-16-Pro-Max&sku=NLAIP16PM256GL,iPhone 16 Pro Max - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s25?INTCMP=tcom_mob_phones_card_Galaxy-S25&sku=NSSGS25128SL,Galaxy S25 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s25-ultra?INTCMP=tcom_mob_phones_card_Galaxy-S25-Ultra&sku=NSSGS25U256BK,Galaxy S25 Ultra - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s25-plus?INTCMP=tcom_mob_phones_card_Galaxy-S25%2B&sku=NSSGS25P256SL,Galaxy S25+ - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s25-fe,Galaxy S25 FE - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-16?INTCMP=tcom_mob_phones_card_iPhone-16&sku=NLAIP16128BK,iPhone 16 - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-16e?INTCMP=tcom_mob_phones_card_iPhone-16e&sku=NLAIP16E128BK,iPhone 16e - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-17,iPhone 17 - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-17,iPhone 17 - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-17,iPhone 17 - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-17,iPhone 17 - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-17,iPhone 17 - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-17,iPhone 17 - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-17,iPhone 17 - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-17,iPhone 17 - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-17,iPhone 17 - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-17,iPhone 17 - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-17,iPhone 17 - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-17,iPhone 17 - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-17,iPhone 17 - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-17-pro,iPhone 17 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-17-pro-max,iPhone 17 Pro Max - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-10-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-10-Pro-XL&sku=NGGP10PXL256BK,Pixel 10 Pro XL - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-10-pro?INTCMP=tcom_mob_phones_card_Pixel-10-Pro&sku=NGGPXL10P128BK,Pixel 10 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-10?INTCMP=tcom_mob_phones_card_Pixel-10&sku=NGGPXL10128BK,Pixel 10 - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-9?INTCMP=tcom_mob_phones_card_Pixel-9&sku=NLGGPXL9128BK,Pixel 9 - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-9-pro?INTCMP=tcom_mob_phones_card_Pixel-9-Pro&sku=NLGGPXL9P128BK,Pixel 9 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-9-pro-fold?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-Fold&sku=NLGGP9PF256BK,Pixel 9 Pro Fold - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-9-pro-xl?INTCMP=tcom_mob_phones_card_Pixel-9-Pro-XL&sku=NLGGP9PXL128BK,Pixel 9 Pro XL - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-10-pro-fold,Pixel 10 Pro Fold - YT
+https://www.telus.com/en/ab/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - AB
+https://www.telus.com/en/bc/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - BC
+https://www.telus.com/en/mb/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - MB
+https://www.telus.com/en/nb/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - NB
+https://www.telus.com/en/nl/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - NL
+https://www.telus.com/en/ns/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - NS
+https://www.telus.com/en/nt/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - NT
+https://www.telus.com/en/nu/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - NU
+https://www.telus.com/en/on/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - ON
+https://www.telus.com/en/pe/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - PE
+https://www.telus.com/en/qc/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - QC
+https://www.telus.com/en/sk/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - SK
+https://www.telus.com/en/yt/business/small/smartphones/google-pixel-9a?INTCMP=tcom_mob_phones_card_Pixel-9a&sku=NGGPXL9A128BK,Pixel 9a - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-z-flip7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip7&sku=NLSSFLIP7256BE,Galaxy Z Flip7 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-z-fold7?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold7&sku=NLSSFOLD7256BE,Galaxy Z Fold7 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-s25-edge?INTCMP=tcom_mob_phones_card_Galaxy-S25-Edge&sku=NSSGS25E256BK,Galaxy S25 Edge - YT
+https://www.telus.com/en/ab/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/iphone-15-pro?INTCMP=tcom_mob_phones_card_iPhone-15-Pro&sku=NLAIP15P256GY,iPhone 15 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-z-flip6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Flip6&sku=NLSSFLIP6256SL,Galaxy Z Flip6 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-z-fold6?INTCMP=tcom_mob_phones_card_Galaxy-Z-Fold6&sku=NLSSFOLD6256SL,Galaxy Z Fold6 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-a56?INTCMP=tcom_mob_phones_card_Galaxy-A56&sku=NSSA56128BK,Galaxy A56 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-a36?INTCMP=tcom_mob_phones_card_Galaxy-A36&sku=NSSA36128BK,Galaxy A36 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-a16?INTCMP=tcom_mob_phones_card_Galaxy-A16&sku=NSSA16128BE,Galaxy A16 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-a17,Galaxy A17 - YT
+https://www.telus.com/en/ab/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/samsung-galaxy-xcover7-pro?INTCMP=tcom_mob_phones_card_Galaxy-XCover7-Pro&sku=NSSGXCOVER7PRO,Galaxy XCover7 Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - AB
+https://www.telus.com/en/bc/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - BC
+https://www.telus.com/en/mb/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - MB
+https://www.telus.com/en/nb/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - NB
+https://www.telus.com/en/nl/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - NL
+https://www.telus.com/en/ns/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - NS
+https://www.telus.com/en/nt/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - NT
+https://www.telus.com/en/nu/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - NU
+https://www.telus.com/en/on/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - ON
+https://www.telus.com/en/pe/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - PE
+https://www.telus.com/en/qc/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - QC
+https://www.telus.com/en/sk/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - SK
+https://www.telus.com/en/yt/business/small/smartphones/motorola-edge-2025?INTCMP=tcom_mob_phones_card_moto-edge---2025&sku=NMOEDGE2025GR,edge (2025) - YT
+https://www.telus.com/en/ab/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - AB
+https://www.telus.com/en/bc/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - BC
+https://www.telus.com/en/mb/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - MB
+https://www.telus.com/en/nb/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - NB
+https://www.telus.com/en/nl/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - NL
+https://www.telus.com/en/ns/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - NS
+https://www.telus.com/en/nt/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - NT
+https://www.telus.com/en/nu/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - NU
+https://www.telus.com/en/on/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - ON
+https://www.telus.com/en/pe/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - PE
+https://www.telus.com/en/qc/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - QC
+https://www.telus.com/en/sk/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - SK
+https://www.telus.com/en/yt/business/small/smartphones/moto-g-2025?INTCMP=tcom_mob_phones_card_moto-g---2025&sku=NMOG2025GY,moto g - 2025 - YT
+https://www.telus.com/en/ab/business/small/smartphones/moto-g-2026,moto g - 2026 - AB
+https://www.telus.com/en/bc/business/small/smartphones/moto-g-2026,moto g - 2026 - BC
+https://www.telus.com/en/mb/business/small/smartphones/moto-g-2026,moto g - 2026 - MB
+https://www.telus.com/en/nb/business/small/smartphones/moto-g-2026,moto g - 2026 - NB
+https://www.telus.com/en/nl/business/small/smartphones/moto-g-2026,moto g - 2026 - NL
+https://www.telus.com/en/ns/business/small/smartphones/moto-g-2026,moto g - 2026 - NS
+https://www.telus.com/en/nt/business/small/smartphones/moto-g-2026,moto g - 2026 - NT
+https://www.telus.com/en/nu/business/small/smartphones/moto-g-2026,moto g - 2026 - NU
+https://www.telus.com/en/on/business/small/smartphones/moto-g-2026,moto g - 2026 - ON
+https://www.telus.com/en/pe/business/small/smartphones/moto-g-2026,moto g - 2026 - PE
+https://www.telus.com/en/qc/business/small/smartphones/moto-g-2026,moto g - 2026 - QC
+https://www.telus.com/en/sk/business/small/smartphones/moto-g-2026,moto g - 2026 - SK
+https://www.telus.com/en/yt/business/small/smartphones/moto-g-2026,moto g - 2026 - YT
+https://www.telus.com/en/ab/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - AB
+https://www.telus.com/en/bc/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - BC
+https://www.telus.com/en/mb/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - MB
+https://www.telus.com/en/nb/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - NB
+https://www.telus.com/en/nl/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - NL
+https://www.telus.com/en/ns/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - NS
+https://www.telus.com/en/nt/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - NT
+https://www.telus.com/en/nu/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - NU
+https://www.telus.com/en/on/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - ON
+https://www.telus.com/en/pe/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - PE
+https://www.telus.com/en/qc/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - QC
+https://www.telus.com/en/sk/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - SK
+https://www.telus.com/en/yt/business/small/smartphones/motorola-razr-2025?INTCMP=tcom_mob_phones_card_razr---2025&sku=NMORAZR25BE,motorola razr - 2025 - YT
+https://www.telus.com/en/ab/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - AB
+https://www.telus.com/en/bc/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - BC
+https://www.telus.com/en/mb/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - MB
+https://www.telus.com/en/nb/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - NB
+https://www.telus.com/en/nl/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - NL
+https://www.telus.com/en/ns/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - NS
+https://www.telus.com/en/nt/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - NT
+https://www.telus.com/en/nu/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - NU
+https://www.telus.com/en/on/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - ON
+https://www.telus.com/en/pe/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - PE
+https://www.telus.com/en/qc/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - QC
+https://www.telus.com/en/sk/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - SK
+https://www.telus.com/en/yt/business/small/smartphones/motorola-moto-g-play-2024?INTCMP=tcom_mob_phones_card_moto-g-play---2024&sku=NLMOGPLY2024BE,moto g play - 2024 - YT
+https://www.telus.com/en/ab/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - AB
+https://www.telus.com/en/bc/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - BC
+https://www.telus.com/en/mb/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - MB
+https://www.telus.com/en/nb/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - NB
+https://www.telus.com/en/nl/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - NL
+https://www.telus.com/en/ns/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - NS
+https://www.telus.com/en/nt/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - NT
+https://www.telus.com/en/nu/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - NU
+https://www.telus.com/en/on/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - ON
+https://www.telus.com/en/pe/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - PE
+https://www.telus.com/en/qc/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - QC
+https://www.telus.com/en/sk/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - SK
+https://www.telus.com/en/yt/business/small/smartphones/nubia-flip-2?INTCMP=tcom_mob_phones_card_Flip-2&sku=NNUFLIP2128BK,Flip 2 - YT
+https://www.telus.com/en/ab/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - AB
+https://www.telus.com/en/bc/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - BC
+https://www.telus.com/en/mb/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - MB
+https://www.telus.com/en/nb/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - NB
+https://www.telus.com/en/nl/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - NL
+https://www.telus.com/en/ns/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - NS
+https://www.telus.com/en/nt/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - NT
+https://www.telus.com/en/nu/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - NU
+https://www.telus.com/en/on/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - ON
+https://www.telus.com/en/pe/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - PE
+https://www.telus.com/en/qc/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - QC
+https://www.telus.com/en/sk/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - SK
+https://www.telus.com/en/yt/business/small/smartphones/nubia-a76?INTCMP=tcom_mob_phones_card_A76&sku=NNUA76BK,A76 - YT
+https://www.telus.com/en/ab/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - AB
+https://www.telus.com/en/bc/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - BC
+https://www.telus.com/en/mb/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - MB
+https://www.telus.com/en/nb/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - NB
+https://www.telus.com/en/nl/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - NL
+https://www.telus.com/en/ns/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - NS
+https://www.telus.com/en/nt/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - NT
+https://www.telus.com/en/nu/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - NU
+https://www.telus.com/en/on/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - ON
+https://www.telus.com/en/pe/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - PE
+https://www.telus.com/en/qc/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - QC
+https://www.telus.com/en/sk/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - SK
+https://www.telus.com/en/yt/business/small/smartphones/nubia-a75?INTCMP=tcom_mob_phones_card_A75&sku=NLNUBA75BK,A75 - YT
+https://www.telus.com/en/ab/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - AB
+https://www.telus.com/en/bc/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - BC
+https://www.telus.com/en/mb/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - MB
+https://www.telus.com/en/nb/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - NB
+https://www.telus.com/en/nl/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - NL
+https://www.telus.com/en/ns/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - NS
+https://www.telus.com/en/nt/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - NT
+https://www.telus.com/en/nu/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - NU
+https://www.telus.com/en/on/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - ON
+https://www.telus.com/en/pe/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - PE
+https://www.telus.com/en/qc/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - QC
+https://www.telus.com/en/sk/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - SK
+https://www.telus.com/en/yt/business/small/smartphones/sonim-xp-pro?INTCMP=tcom_mob_phones_card_XP-Pro&sku=NSMXPPRO256BK,XP Pro - YT
+https://www.telus.com/en/ab/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - AB
+https://www.telus.com/en/bc/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - BC
+https://www.telus.com/en/mb/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - MB
+https://www.telus.com/en/nb/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - NB
+https://www.telus.com/en/nl/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - NL
+https://www.telus.com/en/ns/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - NS
+https://www.telus.com/en/nt/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - NT
+https://www.telus.com/en/nu/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - NU
+https://www.telus.com/en/on/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - ON
+https://www.telus.com/en/pe/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - PE
+https://www.telus.com/en/qc/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - QC
+https://www.telus.com/en/sk/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - SK
+https://www.telus.com/en/yt/business/small/smartphones/sonim-xp3plus?INTCMP=tcom_mob_phones_card_XP3plus&sku=NLSMXP3900BK,XP3plus - YT
+https://www.telus.com/en/ab/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - AB
+https://www.telus.com/en/bc/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - BC
+https://www.telus.com/en/mb/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - MB
+https://www.telus.com/en/nb/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - NB
+https://www.telus.com/en/nl/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - NL
+https://www.telus.com/en/ns/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - NS
+https://www.telus.com/en/nt/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - NT
+https://www.telus.com/en/nu/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - NU
+https://www.telus.com/en/on/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - ON
+https://www.telus.com/en/pe/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - PE
+https://www.telus.com/en/qc/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - QC
+https://www.telus.com/en/sk/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - SK
+https://www.telus.com/en/yt/business/small/smartphones/zte-cymbal-2?INTCMP=tcom_mob_phones_card_Cymbal-2&sku=NLZTECYMBAL2BK,Cymbal 2 - YT
+https://www.telus.com/en/ab/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - AB
+https://www.telus.com/en/bc/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - BC
+https://www.telus.com/en/mb/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - MB
+https://www.telus.com/en/nb/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - NB
+https://www.telus.com/en/nl/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - NL
+https://www.telus.com/en/ns/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - NS
+https://www.telus.com/en/nt/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - NT
+https://www.telus.com/en/nu/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - NU
+https://www.telus.com/en/on/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - ON
+https://www.telus.com/en/pe/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - PE
+https://www.telus.com/en/qc/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - QC
+https://www.telus.com/en/sk/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - SK
+https://www.telus.com/en/yt/business/small/mobility/devices/category/tablets,SMB Tablets Catalogue - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-a16?INTCMP=tcom_mob_tablets_card_iPad-11-inch-(A16)&sku=NAIPD11128SL,iPad 11-inch (A16) - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-air-13-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M3)&sku=NAIPA13M3128GY,iPad Air 13-inch (M3) - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-pro-13-inch-m5,iPad Air 13-inch (M5) - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-air-11-inch-m3?INTCMP=tcom_mob_tablets_card_iPad-Air-11-inch-(M3)&sku=NAIPA11M3128BL,iPad Air 11-inch (M3) - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-mini-7?INTCMP=tcom_mob_tablets_card_iPad-Mini-7&sku=NLAIPM7128GY,iPad Mini 7 - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-pro-11-inch-m5,iPad Pro 11-inch (M5) - YT
+https://www.telus.com/en/ab/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - AB
+https://www.telus.com/en/bc/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - BC
+https://www.telus.com/en/mb/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - MB
+https://www.telus.com/en/nb/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - NB
+https://www.telus.com/en/nl/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - NL
+https://www.telus.com/en/ns/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - NS
+https://www.telus.com/en/nt/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - NT
+https://www.telus.com/en/nu/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - NU
+https://www.telus.com/en/on/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - ON
+https://www.telus.com/en/pe/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - PE
+https://www.telus.com/en/qc/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - QC
+https://www.telus.com/en/sk/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - SK
+https://www.telus.com/en/yt/business/small/tablets/ipad-air-13-inch-m2?INTCMP=tcom_mob_tablets_card_iPad-Air-13-inch-(M2)&sku=NLAIPA13128GY,iPad Air 13-inch (M2) - YT
+https://www.telus.com/en/ab/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - AB
+https://www.telus.com/en/bc/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - BC
+https://www.telus.com/en/mb/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - MB
+https://www.telus.com/en/nb/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - NB
+https://www.telus.com/en/nl/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - NL
+https://www.telus.com/en/ns/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - NS
+https://www.telus.com/en/nt/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - NT
+https://www.telus.com/en/nu/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - NU
+https://www.telus.com/en/on/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - ON
+https://www.telus.com/en/pe/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - PE
+https://www.telus.com/en/qc/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - QC
+https://www.telus.com/en/sk/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - SK
+https://www.telus.com/en/yt/business/small/tablets/samsung-galaxy-a9-plus-5g-tablet?INTCMP=tcom_mob_tablets_card_Galaxy-A9%2B-5G-Tablet&sku=NLSSTABA9PBK,Galaxy Tab A9+ 5G - YT
+https://www.telus.com/en/ab/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - AB
+https://www.telus.com/en/bc/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - BC
+https://www.telus.com/en/mb/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - MB
+https://www.telus.com/en/nb/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - NB
+https://www.telus.com/en/nl/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - NL
+https://www.telus.com/en/ns/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - NS
+https://www.telus.com/en/nt/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - NT
+https://www.telus.com/en/nu/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - NU
+https://www.telus.com/en/on/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - ON
+https://www.telus.com/en/pe/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - PE
+https://www.telus.com/en/qc/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - QC
+https://www.telus.com/en/sk/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - SK
+https://www.telus.com/en/yt/business/small/tablets/samsung-galaxy-tab-a11-plus,Galaxy Tab A11+ - YT
+https://www.telus.com/en/ab/business/small/mobility/tablet-plans,SMB Tablet Plans Page - AB
+https://www.telus.com/en/bc/business/small/mobility/tablet-plans,SMB Tablet Plans Page - BC
+https://www.telus.com/en/mb/business/small/mobility/tablet-plans,SMB Tablet Plans Page - MB
+https://www.telus.com/en/nb/business/small/mobility/tablet-plans,SMB Tablet Plans Page - NB
+https://www.telus.com/en/nl/business/small/mobility/tablet-plans,SMB Tablet Plans Page - NL
+https://www.telus.com/en/ns/business/small/mobility/tablet-plans,SMB Tablet Plans Page - NS
+https://www.telus.com/en/nt/business/small/mobility/tablet-plans,SMB Tablet Plans Page - NT
+https://www.telus.com/en/nu/business/small/mobility/tablet-plans,SMB Tablet Plans Page - NU
+https://www.telus.com/en/on/business/small/mobility/tablet-plans,SMB Tablet Plans Page - ON
+https://www.telus.com/en/pe/business/small/mobility/tablet-plans,SMB Tablet Plans Page - PE
+https://www.telus.com/en/qc/business/small/mobility/tablet-plans,SMB Tablet Plans Page - QC
+https://www.telus.com/en/sk/business/small/mobility/tablet-plans,SMB Tablet Plans Page - SK
+https://www.telus.com/en/yt/business/small/mobility/tablet-plans,SMB Tablet Plans Page - YT
+https://www.telus.com/en/ab/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - AB
+https://www.telus.com/en/bc/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - BC
+https://www.telus.com/en/mb/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - MB
+https://www.telus.com/en/nb/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - NB
+https://www.telus.com/en/nl/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - NL
+https://www.telus.com/en/ns/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - NS
+https://www.telus.com/en/nt/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - NT
+https://www.telus.com/en/nu/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - NU
+https://www.telus.com/en/on/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - ON
+https://www.telus.com/en/pe/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - PE
+https://www.telus.com/en/qc/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - QC
+https://www.telus.com/en/sk/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - SK
+https://www.telus.com/en/yt/business/small/mobility/devices/category/smartwatches,SMB Smartwatch Catalogue - YT
+https://www.telus.com/en/ab/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - AB
+https://www.telus.com/en/bc/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - BC
+https://www.telus.com/en/mb/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - MB
+https://www.telus.com/en/nb/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - NB
+https://www.telus.com/en/nl/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - NL
+https://www.telus.com/en/ns/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - NS
+https://www.telus.com/en/nt/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - NT
+https://www.telus.com/en/nu/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - NU
+https://www.telus.com/en/on/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - ON
+https://www.telus.com/en/pe/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - PE
+https://www.telus.com/en/qc/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - QC
+https://www.telus.com/en/sk/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - SK
+https://www.telus.com/en/yt/business/small/smartwatches/apple-watch-se-2nd-generation-gps-plus-cellular-aluminum?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-SE-2nd-generation-(GPS-%2B-Cellular)&sku=NLAWSE240SCBSL,Watch SE 2nd generation (GPS + Cellular) - YT
+https://www.telus.com/en/ab/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - AB
+https://www.telus.com/en/bc/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - BC
+https://www.telus.com/en/mb/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - MB
+https://www.telus.com/en/nb/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - NB
+https://www.telus.com/en/nl/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - NL
+https://www.telus.com/en/ns/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - NS
+https://www.telus.com/en/nt/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - NT
+https://www.telus.com/en/nu/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - NU
+https://www.telus.com/en/on/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - ON
+https://www.telus.com/en/pe/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - PE
+https://www.telus.com/en/qc/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - QC
+https://www.telus.com/en/sk/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - SK
+https://www.telus.com/en/yt/business/small/smartwatches/apple-watch-series-10-gps-plus-cellular?INTCMP=tcom_mob_smartwatches_card_Apple-Watch-Series-10-(GPS-%2B-Cellular)&sku=NLAW1042BABBSM,Watch Series 10 (GPS + Cellular) - YT
+https://www.telus.com/en/ab/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - AB
+https://www.telus.com/en/bc/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - BC
+https://www.telus.com/en/mb/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - MB
+https://www.telus.com/en/nb/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - NB
+https://www.telus.com/en/nl/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - NL
+https://www.telus.com/en/ns/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - NS
+https://www.telus.com/en/nt/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - NT
+https://www.telus.com/en/nu/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - NU
+https://www.telus.com/en/on/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - ON
+https://www.telus.com/en/pe/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - PE
+https://www.telus.com/en/qc/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - QC
+https://www.telus.com/en/sk/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - SK
+https://www.telus.com/en/yt/business/small/mobility/mobile-internet,SMB Business Mobile Internet Page - YT
+https://www.telus.com/en/ab/business/small/internet/wi-fi,SMB Business Wi-Fi Page - AB
+https://www.telus.com/en/bc/business/small/internet/wi-fi,SMB Business Wi-Fi Page - BC
+https://www.telus.com/en/mb/business/small/internet/wi-fi,SMB Business Wi-Fi Page - MB
+https://www.telus.com/en/nb/business/small/internet/wi-fi,SMB Business Wi-Fi Page - NB
+https://www.telus.com/en/nl/business/small/internet/wi-fi,SMB Business Wi-Fi Page - NL
+https://www.telus.com/en/ns/business/small/internet/wi-fi,SMB Business Wi-Fi Page - NS
+https://www.telus.com/en/nt/business/small/internet/wi-fi,SMB Business Wi-Fi Page - NT
+https://www.telus.com/en/nu/business/small/internet/wi-fi,SMB Business Wi-Fi Page - NU
+https://www.telus.com/en/on/business/small/internet/wi-fi,SMB Business Wi-Fi Page - ON
+https://www.telus.com/en/pe/business/small/internet/wi-fi,SMB Business Wi-Fi Page - PE
+https://www.telus.com/en/qc/business/small/internet/wi-fi,SMB Business Wi-Fi Page - QC
+https://www.telus.com/en/sk/business/small/internet/wi-fi,SMB Business Wi-Fi Page - SK
+https://www.telus.com/en/yt/business/small/internet/wi-fi,SMB Business Wi-Fi Page - YT
+https://www.telus.com/en/ab/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - AB
+https://www.telus.com/en/bc/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - BC
+https://www.telus.com/en/mb/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - MB
+https://www.telus.com/en/nb/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - NB
+https://www.telus.com/en/nl/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - NL
+https://www.telus.com/en/ns/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - NS
+https://www.telus.com/en/nt/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - NT
+https://www.telus.com/en/nu/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - NU
+https://www.telus.com/en/on/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - ON
+https://www.telus.com/en/pe/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - PE
+https://www.telus.com/en/qc/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - QC
+https://www.telus.com/en/sk/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - SK
+https://www.telus.com/en/yt/business/small/cloud/wi-fi,SMB Business Wi-Fi East Page - YT
+https://www.telus.com/en/ab/business/small/internet/business-internet-plans,SMB Business Internet Page - AB
+https://www.telus.com/en/bc/business/small/internet/business-internet-plans,SMB Business Internet Page - BC
+https://www.telus.com/en/mb/business/small/internet/business-internet-plans,SMB Business Internet Page - MB
+https://www.telus.com/en/nb/business/small/internet/business-internet-plans,SMB Business Internet Page - NB
+https://www.telus.com/en/nl/business/small/internet/business-internet-plans,SMB Business Internet Page - NL
+https://www.telus.com/en/ns/business/small/internet/business-internet-plans,SMB Business Internet Page - NS
+https://www.telus.com/en/nt/business/small/internet/business-internet-plans,SMB Business Internet Page - NT
+https://www.telus.com/en/nu/business/small/internet/business-internet-plans,SMB Business Internet Page - NU
+https://www.telus.com/en/on/business/small/internet/business-internet-plans,SMB Business Internet Page - ON
+https://www.telus.com/en/pe/business/small/internet/business-internet-plans,SMB Business Internet Page - PE
+https://www.telus.com/en/qc/business/small/internet/business-internet-plans,SMB Business Internet Page - QC
+https://www.telus.com/en/sk/business/small/internet/business-internet-plans,SMB Business Internet Page - SK
+https://www.telus.com/en/yt/business/small/internet/business-internet-plans,SMB Business Internet Page - YT
+https://www.telus.com/en/ab/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - AB
+https://www.telus.com/en/bc/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - BC
+https://www.telus.com/en/mb/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - MB
+https://www.telus.com/en/nb/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - NB
+https://www.telus.com/en/nl/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - NL
+https://www.telus.com/en/ns/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - NS
+https://www.telus.com/en/nt/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - NT
+https://www.telus.com/en/nu/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - NU
+https://www.telus.com/en/on/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - ON
+https://www.telus.com/en/pe/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - PE
+https://www.telus.com/en/qc/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - QC
+https://www.telus.com/en/sk/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - SK
+https://www.telus.com/en/yt/business/small/internet/business-internet-plans-qc,SMB Business Internet Page QC - YT
+https://www.telus.com/en/ab/business/small/security/security-systems,SMB Secure Business Page - AB
+https://www.telus.com/en/bc/business/small/security/security-systems,SMB Secure Business Page - BC
+https://www.telus.com/en/mb/business/small/security/security-systems,SMB Secure Business Page - MB
+https://www.telus.com/en/nb/business/small/security/security-systems,SMB Secure Business Page - NB
+https://www.telus.com/en/nl/business/small/security/security-systems,SMB Secure Business Page - NL
+https://www.telus.com/en/ns/business/small/security/security-systems,SMB Secure Business Page - NS
+https://www.telus.com/en/nt/business/small/security/security-systems,SMB Secure Business Page - NT
+https://www.telus.com/en/nu/business/small/security/security-systems,SMB Secure Business Page - NU
+https://www.telus.com/en/on/business/small/security/security-systems,SMB Secure Business Page - ON
+https://www.telus.com/en/pe/business/small/security/security-systems,SMB Secure Business Page - PE
+https://www.telus.com/en/qc/business/small/security/security-systems,SMB Secure Business Page - QC
+https://www.telus.com/en/sk/business/small/security/security-systems,SMB Secure Business Page - SK
+https://www.telus.com/en/yt/business/small/security/security-systems,SMB Secure Business Page - YT
+https://www.telus.com/en/ab/business/small/security/security-systems-plans,SMB Secure Business Plans Page - AB
+https://www.telus.com/en/bc/business/small/security/security-systems-plans,SMB Secure Business Plans Page - BC
+https://www.telus.com/en/mb/business/small/security/security-systems-plans,SMB Secure Business Plans Page - MB
+https://www.telus.com/en/nb/business/small/security/security-systems-plans,SMB Secure Business Plans Page - NB
+https://www.telus.com/en/nl/business/small/security/security-systems-plans,SMB Secure Business Plans Page - NL
+https://www.telus.com/en/ns/business/small/security/security-systems-plans,SMB Secure Business Plans Page - NS
+https://www.telus.com/en/nt/business/small/security/security-systems-plans,SMB Secure Business Plans Page - NT
+https://www.telus.com/en/nu/business/small/security/security-systems-plans,SMB Secure Business Plans Page - NU
+https://www.telus.com/en/on/business/small/security/security-systems-plans,SMB Secure Business Plans Page - ON
+https://www.telus.com/en/pe/business/small/security/security-systems-plans,SMB Secure Business Plans Page - PE
+https://www.telus.com/en/qc/business/small/security/security-systems-plans,SMB Secure Business Plans Page - QC
+https://www.telus.com/en/sk/business/small/security/security-systems-plans,SMB Secure Business Plans Page - SK
+https://www.telus.com/en/yt/business/small/security/security-systems-plans,SMB Secure Business Plans Page - YT
+https://www.telus.com/en/ab/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - AB
+https://www.telus.com/en/bc/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - BC
+https://www.telus.com/en/mb/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - MB
+https://www.telus.com/en/nb/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - NB
+https://www.telus.com/en/nl/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - NL
+https://www.telus.com/en/ns/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - NS
+https://www.telus.com/en/nt/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - NT
+https://www.telus.com/en/nu/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - NU
+https://www.telus.com/en/on/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - ON
+https://www.telus.com/en/pe/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - PE
+https://www.telus.com/en/qc/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - QC
+https://www.telus.com/en/sk/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - SK
+https://www.telus.com/en/yt/business/small/security/device-catalogue,SMB Secure Business Device Catalogue - YT
+https://www.telus.com/en/ab/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - AB
+https://www.telus.com/en/bc/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - BC
+https://www.telus.com/en/mb/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - MB
+https://www.telus.com/en/nb/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - NB
+https://www.telus.com/en/nl/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - NL
+https://www.telus.com/en/ns/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - NS
+https://www.telus.com/en/nt/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - NT
+https://www.telus.com/en/nu/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - NU
+https://www.telus.com/en/on/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - ON
+https://www.telus.com/en/pe/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - PE
+https://www.telus.com/en/qc/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - QC
+https://www.telus.com/en/sk/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - SK
+https://www.telus.com/en/yt/business/small/security/security-systems-fromanydevice,SMB Secure Business How it works? - YT
+https://www.telus.com/en/ab/business/small/phone/cloud-phone,SMB Business Connect Page - AB
+https://www.telus.com/en/bc/business/small/phone/cloud-phone,SMB Business Connect Page - BC
+https://www.telus.com/en/mb/business/small/phone/cloud-phone,SMB Business Connect Page - MB
+https://www.telus.com/en/nb/business/small/phone/cloud-phone,SMB Business Connect Page - NB
+https://www.telus.com/en/nl/business/small/phone/cloud-phone,SMB Business Connect Page - NL
+https://www.telus.com/en/ns/business/small/phone/cloud-phone,SMB Business Connect Page - NS
+https://www.telus.com/en/nt/business/small/phone/cloud-phone,SMB Business Connect Page - NT
+https://www.telus.com/en/nu/business/small/phone/cloud-phone,SMB Business Connect Page - NU
+https://www.telus.com/en/on/business/small/phone/cloud-phone,SMB Business Connect Page - ON
+https://www.telus.com/en/pe/business/small/phone/cloud-phone,SMB Business Connect Page - PE
+https://www.telus.com/en/qc/business/small/phone/cloud-phone,SMB Business Connect Page - QC
+https://www.telus.com/en/sk/business/small/phone/cloud-phone,SMB Business Connect Page - SK
+https://www.telus.com/en/yt/business/small/phone/cloud-phone,SMB Business Connect Page - YT
+https://www.telus.com/en/ab/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - AB
+https://www.telus.com/en/bc/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - BC
+https://www.telus.com/en/mb/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - MB
+https://www.telus.com/en/nb/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - NB
+https://www.telus.com/en/nl/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - NL
+https://www.telus.com/en/ns/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - NS
+https://www.telus.com/en/nt/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - NT
+https://www.telus.com/en/nu/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - NU
+https://www.telus.com/en/on/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - ON
+https://www.telus.com/en/pe/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - PE
+https://www.telus.com/en/qc/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - QC
+https://www.telus.com/en/sk/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - SK
+https://www.telus.com/en/yt/business/small/phone/cloud-phone/device-catalogue,SMB Business Connect device catalogue - YT
+https://www.telus.com/en/ab/business/small/internet/smart-hub,SMB Smart Hub page - AB
+https://www.telus.com/en/bc/business/small/internet/smart-hub,SMB Smart Hub page - BC
+https://www.telus.com/en/mb/business/small/internet/smart-hub,SMB Smart Hub page - MB
+https://www.telus.com/en/nb/business/small/internet/smart-hub,SMB Smart Hub page - NB
+https://www.telus.com/en/nl/business/small/internet/smart-hub,SMB Smart Hub page - NL
+https://www.telus.com/en/ns/business/small/internet/smart-hub,SMB Smart Hub page - NS
+https://www.telus.com/en/nt/business/small/internet/smart-hub,SMB Smart Hub page - NT
+https://www.telus.com/en/nu/business/small/internet/smart-hub,SMB Smart Hub page - NU
+https://www.telus.com/en/on/business/small/internet/smart-hub,SMB Smart Hub page - ON
+https://www.telus.com/en/pe/business/small/internet/smart-hub,SMB Smart Hub page - PE
+https://www.telus.com/en/qc/business/small/internet/smart-hub,SMB Smart Hub page - QC
+https://www.telus.com/en/sk/business/small/internet/smart-hub,SMB Smart Hub page - SK
+https://www.telus.com/en/yt/business/small/internet/smart-hub,SMB Smart Hub page - YT
+https://www.telus.com/en/ab/business/small/mobility/refer,SMB Refer a Business Page - AB
+https://www.telus.com/en/bc/business/small/mobility/refer,SMB Refer a Business Page - BC
+https://www.telus.com/en/mb/business/small/mobility/refer,SMB Refer a Business Page - MB
+https://www.telus.com/en/nb/business/small/mobility/refer,SMB Refer a Business Page - NB
+https://www.telus.com/en/nl/business/small/mobility/refer,SMB Refer a Business Page - NL
+https://www.telus.com/en/ns/business/small/mobility/refer,SMB Refer a Business Page - NS
+https://www.telus.com/en/nt/business/small/mobility/refer,SMB Refer a Business Page - NT
+https://www.telus.com/en/nu/business/small/mobility/refer,SMB Refer a Business Page - NU
+https://www.telus.com/en/on/business/small/mobility/refer,SMB Refer a Business Page - ON
+https://www.telus.com/en/pe/business/small/mobility/refer,SMB Refer a Business Page - PE
+https://www.telus.com/en/qc/business/small/mobility/refer,SMB Refer a Business Page - QC
+https://www.telus.com/en/sk/business/small/mobility/refer,SMB Refer a Business Page - SK
+https://www.telus.com/en/yt/business/small/mobility/refer,SMB Refer a Business Page - YT
+https://www.telus.com/en/ab/business/small/mobility/roaming,SMB Travel and Roaming Page - AB
+https://www.telus.com/en/bc/business/small/mobility/roaming,SMB Travel and Roaming Page - BC
+https://www.telus.com/en/mb/business/small/mobility/roaming,SMB Travel and Roaming Page - MB
+https://www.telus.com/en/nb/business/small/mobility/roaming,SMB Travel and Roaming Page - NB
+https://www.telus.com/en/nl/business/small/mobility/roaming,SMB Travel and Roaming Page - NL
+https://www.telus.com/en/ns/business/small/mobility/roaming,SMB Travel and Roaming Page - NS
+https://www.telus.com/en/nt/business/small/mobility/roaming,SMB Travel and Roaming Page - NT
+https://www.telus.com/en/nu/business/small/mobility/roaming,SMB Travel and Roaming Page - NU
+https://www.telus.com/en/on/business/small/mobility/roaming,SMB Travel and Roaming Page - ON
+https://www.telus.com/en/pe/business/small/mobility/roaming,SMB Travel and Roaming Page - PE
+https://www.telus.com/en/qc/business/small/mobility/roaming,SMB Travel and Roaming Page - QC
+https://www.telus.com/en/sk/business/small/mobility/roaming,SMB Travel and Roaming Page - SK
+https://www.telus.com/en/yt/business/small/mobility/roaming,SMB Travel and Roaming Page - YT
+https://www.telus.com/en/ab/business/small/perks?perks-auth=,Owner perks authenticated - AB
+https://www.telus.com/en/bc/business/small/perks?perks-auth=,Owner perks authenticated - BC
+https://www.telus.com/en/mb/business/small/perks?perks-auth=,Owner perks authenticated - MB
+https://www.telus.com/en/nb/business/small/perks?perks-auth=,Owner perks authenticated - NB
+https://www.telus.com/en/nl/business/small/perks?perks-auth=,Owner perks authenticated - NL
+https://www.telus.com/en/ns/business/small/perks?perks-auth=,Owner perks authenticated - NS
+https://www.telus.com/en/nt/business/small/perks?perks-auth=,Owner perks authenticated - NT
+https://www.telus.com/en/nu/business/small/perks?perks-auth=,Owner perks authenticated - NU
+https://www.telus.com/en/on/business/small/perks?perks-auth=,Owner perks authenticated - ON
+https://www.telus.com/en/pe/business/small/perks?perks-auth=,Owner perks authenticated - PE
+https://www.telus.com/en/qc/business/small/perks?perks-auth=,Owner perks authenticated - QC
+https://www.telus.com/en/sk/business/small/perks?perks-auth=,Owner perks authenticated - SK
+https://www.telus.com/en/yt/business/small/perks?perks-auth=,Owner perks authenticated - YT
+https://www.telus.com/en/ab/business/small/perks,Owner perks non-authenticated - AB
+https://www.telus.com/en/bc/business/small/perks,Owner perks non-authenticated - BC
+https://www.telus.com/en/mb/business/small/perks,Owner perks non-authenticated - MB
+https://www.telus.com/en/nb/business/small/perks,Owner perks non-authenticated - NB
+https://www.telus.com/en/nl/business/small/perks,Owner perks non-authenticated - NL
+https://www.telus.com/en/ns/business/small/perks,Owner perks non-authenticated - NS
+https://www.telus.com/en/nt/business/small/perks,Owner perks non-authenticated - NT
+https://www.telus.com/en/nu/business/small/perks,Owner perks non-authenticated - NU
+https://www.telus.com/en/on/business/small/perks,Owner perks non-authenticated - ON
+https://www.telus.com/en/pe/business/small/perks,Owner perks non-authenticated - PE
+https://www.telus.com/en/qc/business/small/perks,Owner perks non-authenticated - QC
+https://www.telus.com/en/sk/business/small/perks,Owner perks non-authenticated - SK
+https://www.telus.com/en/yt/business/small/perks,Owner perks non-authenticated - YT
+https://www.telus.com/en/ab/business/small/5g-for-business,SMB 5G for business - AB
+https://www.telus.com/en/bc/business/small/5g-for-business,SMB 5G for business - BC
+https://www.telus.com/en/mb/business/small/5g-for-business,SMB 5G for business - MB
+https://www.telus.com/en/nb/business/small/5g-for-business,SMB 5G for business - NB
+https://www.telus.com/en/nl/business/small/5g-for-business,SMB 5G for business - NL
+https://www.telus.com/en/ns/business/small/5g-for-business,SMB 5G for business - NS
+https://www.telus.com/en/nt/business/small/5g-for-business,SMB 5G for business - NT
+https://www.telus.com/en/nu/business/small/5g-for-business,SMB 5G for business - NU
+https://www.telus.com/en/on/business/small/5g-for-business,SMB 5G for business - ON
+https://www.telus.com/en/pe/business/small/5g-for-business,SMB 5G for business - PE
+https://www.telus.com/en/qc/business/small/5g-for-business,SMB 5G for business - QC
+https://www.telus.com/en/sk/business/small/5g-for-business,SMB 5G for business - SK
+https://www.telus.com/en/yt/business/small/5g-for-business,SMB 5G for business - YT
+https://www.telus.com/en/ab/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - AB
+https://www.telus.com/en/bc/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - BC
+https://www.telus.com/en/mb/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - MB
+https://www.telus.com/en/nb/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - NB
+https://www.telus.com/en/nl/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - NL
+https://www.telus.com/en/ns/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - NS
+https://www.telus.com/en/nt/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - NT
+https://www.telus.com/en/nu/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - NU
+https://www.telus.com/en/on/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - ON
+https://www.telus.com/en/pe/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - PE
+https://www.telus.com/en/qc/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - QC
+https://www.telus.com/en/sk/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - SK
+https://www.telus.com/en/yt/business/small/mobility/fleet-tracking,SMB Fleet Explore / Raven Connected Vehicle - YT
+https://www.telus.com/en/ab/business/medium-large,Commercial Homepage - AB
+https://www.telus.com/en/bc/business/medium-large,Commercial Homepage - BC
+https://www.telus.com/en/mb/business/medium-large,Commercial Homepage - MB
+https://www.telus.com/en/nb/business/medium-large,Commercial Homepage - NB
+https://www.telus.com/en/nl/business/medium-large,Commercial Homepage - NL
+https://www.telus.com/en/ns/business/medium-large,Commercial Homepage - NS
+https://www.telus.com/en/nt/business/medium-large,Commercial Homepage - NT
+https://www.telus.com/en/nu/business/medium-large,Commercial Homepage - NU
+https://www.telus.com/en/on/business/medium-large,Commercial Homepage - ON
+https://www.telus.com/en/pe/business/medium-large,Commercial Homepage - PE
+https://www.telus.com/en/qc/business/medium-large,Commercial Homepage - QC
+https://www.telus.com/en/sk/business/medium-large,Commercial Homepage - SK
+https://www.telus.com/en/yt/business/medium-large,Commercial Homepage - YT
+https://www.telus.com/en/ab/business/small/bundles,SMB Bundles Page - AB
+https://www.telus.com/en/bc/business/small/bundles,SMB Bundles Page - BC
+https://www.telus.com/en/mb/business/small/bundles,SMB Bundles Page - MB
+https://www.telus.com/en/nb/business/small/bundles,SMB Bundles Page - NB
+https://www.telus.com/en/nl/business/small/bundles,SMB Bundles Page - NL
+https://www.telus.com/en/ns/business/small/bundles,SMB Bundles Page - NS
+https://www.telus.com/en/nt/business/small/bundles,SMB Bundles Page - NT
+https://www.telus.com/en/nu/business/small/bundles,SMB Bundles Page - NU
+https://www.telus.com/en/on/business/small/bundles,SMB Bundles Page - ON
+https://www.telus.com/en/pe/business/small/bundles,SMB Bundles Page - PE
+https://www.telus.com/en/qc/business/small/bundles,SMB Bundles Page - QC
+https://www.telus.com/en/sk/business/small/bundles,SMB Bundles Page - SK
+https://www.telus.com/en/yt/business/small/bundles,SMB Bundles Page - YT
+https://www.telus.com/en/ab/business/small/mobility/business-online-security,SMB TELUS Online Security Page - AB
+https://www.telus.com/en/bc/business/small/mobility/business-online-security,SMB TELUS Online Security Page - BC
+https://www.telus.com/en/mb/business/small/mobility/business-online-security,SMB TELUS Online Security Page - MB
+https://www.telus.com/en/nb/business/small/mobility/business-online-security,SMB TELUS Online Security Page - NB
+https://www.telus.com/en/nl/business/small/mobility/business-online-security,SMB TELUS Online Security Page - NL
+https://www.telus.com/en/ns/business/small/mobility/business-online-security,SMB TELUS Online Security Page - NS
+https://www.telus.com/en/nt/business/small/mobility/business-online-security,SMB TELUS Online Security Page - NT
+https://www.telus.com/en/nu/business/small/mobility/business-online-security,SMB TELUS Online Security Page - NU
+https://www.telus.com/en/on/business/small/mobility/business-online-security,SMB TELUS Online Security Page - ON
+https://www.telus.com/en/pe/business/small/mobility/business-online-security,SMB TELUS Online Security Page - PE
+https://www.telus.com/en/qc/business/small/mobility/business-online-security,SMB TELUS Online Security Page - QC
+https://www.telus.com/en/sk/business/small/mobility/business-online-security,SMB TELUS Online Security Page - SK
+https://www.telus.com/en/yt/business/small/mobility/business-online-security,SMB TELUS Online Security Page - YT
+https://www.telus.com/en/ab/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - AB
+https://www.telus.com/en/bc/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - BC
+https://www.telus.com/en/mb/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - MB
+https://www.telus.com/en/nb/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - NB
+https://www.telus.com/en/nl/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - NL
+https://www.telus.com/en/ns/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - NS
+https://www.telus.com/en/nt/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - NT
+https://www.telus.com/en/nu/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - NU
+https://www.telus.com/en/on/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - ON
+https://www.telus.com/en/pe/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - PE
+https://www.telus.com/en/qc/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - QC
+https://www.telus.com/en/sk/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - SK
+https://www.telus.com/en/yt/business/small/mobility/add-ons,SMB Mobility Add-Ons Page - YT
+https://www.telus.com/en/ab/business/small/cloud/fully-managed,SMB Fully Managed - AB
+https://www.telus.com/en/bc/business/small/cloud/fully-managed,SMB Fully Managed - BC
+https://www.telus.com/en/mb/business/small/cloud/fully-managed,SMB Fully Managed - MB
+https://www.telus.com/en/nb/business/small/cloud/fully-managed,SMB Fully Managed - NB
+https://www.telus.com/en/nl/business/small/cloud/fully-managed,SMB Fully Managed - NL
+https://www.telus.com/en/ns/business/small/cloud/fully-managed,SMB Fully Managed - NS
+https://www.telus.com/en/nt/business/small/cloud/fully-managed,SMB Fully Managed - NT
+https://www.telus.com/en/nu/business/small/cloud/fully-managed,SMB Fully Managed - NU
+https://www.telus.com/en/on/business/small/cloud/fully-managed,SMB Fully Managed - ON
+https://www.telus.com/en/pe/business/small/cloud/fully-managed,SMB Fully Managed - PE
+https://www.telus.com/en/qc/business/small/cloud/fully-managed,SMB Fully Managed - QC
+https://www.telus.com/en/sk/business/small/cloud/fully-managed,SMB Fully Managed - SK
+https://www.telus.com/en/yt/business/small/cloud/fully-managed,SMB Fully Managed - YT
+https://www.telus.com/en/ab/business/small/internet/business-tv,SMB Business TV (BTV) - AB
+https://www.telus.com/en/bc/business/small/internet/business-tv,SMB Business TV (BTV) - BC
+https://www.telus.com/en/mb/business/small/internet/business-tv,SMB Business TV (BTV) - MB
+https://www.telus.com/en/nb/business/small/internet/business-tv,SMB Business TV (BTV) - NB
+https://www.telus.com/en/nl/business/small/internet/business-tv,SMB Business TV (BTV) - NL
+https://www.telus.com/en/ns/business/small/internet/business-tv,SMB Business TV (BTV) - NS
+https://www.telus.com/en/nt/business/small/internet/business-tv,SMB Business TV (BTV) - NT
+https://www.telus.com/en/nu/business/small/internet/business-tv,SMB Business TV (BTV) - NU
+https://www.telus.com/en/on/business/small/internet/business-tv,SMB Business TV (BTV) - ON
+https://www.telus.com/en/pe/business/small/internet/business-tv,SMB Business TV (BTV) - PE
+https://www.telus.com/en/qc/business/small/internet/business-tv,SMB Business TV (BTV) - QC
+https://www.telus.com/en/sk/business/small/internet/business-tv,SMB Business TV (BTV) - SK
+https://www.telus.com/en/yt/business/small/internet/business-tv,SMB Business TV (BTV) - YT
+https://www.telus.com/en/ab/business/small/bconailead,BCON AI Lead capture form - AB
+https://www.telus.com/en/bc/business/small/bconailead,BCON AI Lead capture form - BC
+https://www.telus.com/en/mb/business/small/bconailead,BCON AI Lead capture form - MB
+https://www.telus.com/en/nb/business/small/bconailead,BCON AI Lead capture form - NB
+https://www.telus.com/en/nl/business/small/bconailead,BCON AI Lead capture form - NL
+https://www.telus.com/en/ns/business/small/bconailead,BCON AI Lead capture form - NS
+https://www.telus.com/en/nt/business/small/bconailead,BCON AI Lead capture form - NT
+https://www.telus.com/en/nu/business/small/bconailead,BCON AI Lead capture form - NU
+https://www.telus.com/en/on/business/small/bconailead,BCON AI Lead capture form - ON
+https://www.telus.com/en/pe/business/small/bconailead,BCON AI Lead capture form - PE
+https://www.telus.com/en/qc/business/small/bconailead,BCON AI Lead capture form - QC
+https://www.telus.com/en/sk/business/small/bconailead,BCON AI Lead capture form - SK
+https://www.telus.com/en/yt/business/small/bconailead,BCON AI Lead capture form - YT
+https://www.telus.com/en/ab/business/small/phone/cloud-phone-plans,BCON Plans Page - AB
+https://www.telus.com/en/bc/business/small/phone/cloud-phone-plans,BCON Plans Page - BC
+https://www.telus.com/en/mb/business/small/phone/cloud-phone-plans,BCON Plans Page - MB
+https://www.telus.com/en/nb/business/small/phone/cloud-phone-plans,BCON Plans Page - NB
+https://www.telus.com/en/nl/business/small/phone/cloud-phone-plans,BCON Plans Page - NL
+https://www.telus.com/en/ns/business/small/phone/cloud-phone-plans,BCON Plans Page - NS
+https://www.telus.com/en/nt/business/small/phone/cloud-phone-plans,BCON Plans Page - NT
+https://www.telus.com/en/nu/business/small/phone/cloud-phone-plans,BCON Plans Page - NU
+https://www.telus.com/en/on/business/small/phone/cloud-phone-plans,BCON Plans Page - ON
+https://www.telus.com/en/pe/business/small/phone/cloud-phone-plans,BCON Plans Page - PE
+https://www.telus.com/en/qc/business/small/phone/cloud-phone-plans,BCON Plans Page - QC
+https://www.telus.com/en/sk/business/small/phone/cloud-phone-plans,BCON Plans Page - SK
+https://www.telus.com/en/yt/business/small/phone/cloud-phone-plans,BCON Plans Page - YT
+https://www.telus.com/en/ab/business/small/phone/cloud-phone-setup,BCON Set up and support page - AB
+https://www.telus.com/en/bc/business/small/phone/cloud-phone-setup,BCON Set up and support page - BC
+https://www.telus.com/en/mb/business/small/phone/cloud-phone-setup,BCON Set up and support page - MB
+https://www.telus.com/en/nb/business/small/phone/cloud-phone-setup,BCON Set up and support page - NB
+https://www.telus.com/en/nl/business/small/phone/cloud-phone-setup,BCON Set up and support page - NL
+https://www.telus.com/en/ns/business/small/phone/cloud-phone-setup,BCON Set up and support page - NS
+https://www.telus.com/en/nt/business/small/phone/cloud-phone-setup,BCON Set up and support page - NT
+https://www.telus.com/en/nu/business/small/phone/cloud-phone-setup,BCON Set up and support page - NU
+https://www.telus.com/en/on/business/small/phone/cloud-phone-setup,BCON Set up and support page - ON
+https://www.telus.com/en/pe/business/small/phone/cloud-phone-setup,BCON Set up and support page - PE
+https://www.telus.com/en/qc/business/small/phone/cloud-phone-setup,BCON Set up and support page - QC
+https://www.telus.com/en/sk/business/small/phone/cloud-phone-setup,BCON Set up and support page - SK
+https://www.telus.com/en/yt/business/small/phone/cloud-phone-setup,BCON Set up and support page - YT
+https://www.telus.com/en/ab/business/small/advisorypro,AdvisoryPro - AB
+https://www.telus.com/en/bc/business/small/advisorypro,AdvisoryPro - BC
+https://www.telus.com/en/mb/business/small/advisorypro,AdvisoryPro - MB
+https://www.telus.com/en/nb/business/small/advisorypro,AdvisoryPro - NB
+https://www.telus.com/en/nl/business/small/advisorypro,AdvisoryPro - NL
+https://www.telus.com/en/ns/business/small/advisorypro,AdvisoryPro - NS
+https://www.telus.com/en/nt/business/small/advisorypro,AdvisoryPro - NT
+https://www.telus.com/en/nu/business/small/advisorypro,AdvisoryPro - NU
+https://www.telus.com/en/on/business/small/advisorypro,AdvisoryPro - ON
+https://www.telus.com/en/pe/business/small/advisorypro,AdvisoryPro - PE
+https://www.telus.com/en/qc/business/small/advisorypro,AdvisoryPro - QC
+https://www.telus.com/en/sk/business/small/advisorypro,AdvisoryPro - SK
+https://www.telus.com/en/yt/business/small/advisorypro,AdvisoryPro - YT
+https://www.telus.com/en/ab/business/small/advisoryproform,AdvisoryPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/advisoryproform,AdvisoryPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/advisoryproform,AdvisoryPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/advisoryproform,AdvisoryPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/advisoryproform,AdvisoryPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/advisoryproform,AdvisoryPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/advisoryproform,AdvisoryPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/advisoryproform,AdvisoryPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/advisoryproform,AdvisoryPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/advisoryproform,AdvisoryPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/advisoryproform,AdvisoryPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/advisoryproform,AdvisoryPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/advisoryproform,AdvisoryPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/contractorpro,Constructing & Contracting - AB
+https://www.telus.com/en/bc/business/small/contractorpro,Constructing & Contracting - BC
+https://www.telus.com/en/mb/business/small/contractorpro,Constructing & Contracting - MB
+https://www.telus.com/en/nb/business/small/contractorpro,Constructing & Contracting - NB
+https://www.telus.com/en/nl/business/small/contractorpro,Constructing & Contracting - NL
+https://www.telus.com/en/ns/business/small/contractorpro,Constructing & Contracting - NS
+https://www.telus.com/en/nt/business/small/contractorpro,Constructing & Contracting - NT
+https://www.telus.com/en/nu/business/small/contractorpro,Constructing & Contracting - NU
+https://www.telus.com/en/on/business/small/contractorpro,Constructing & Contracting - ON
+https://www.telus.com/en/pe/business/small/contractorpro,Constructing & Contracting - PE
+https://www.telus.com/en/qc/business/small/contractorpro,Constructing & Contracting - QC
+https://www.telus.com/en/sk/business/small/contractorpro,Constructing & Contracting - SK
+https://www.telus.com/en/yt/business/small/contractorpro,Constructing & Contracting - YT
+https://www.telus.com/en/ab/business/small/financepro,FinancePro - AB
+https://www.telus.com/en/bc/business/small/financepro,FinancePro - BC
+https://www.telus.com/en/mb/business/small/financepro,FinancePro - MB
+https://www.telus.com/en/nb/business/small/financepro,FinancePro - NB
+https://www.telus.com/en/nl/business/small/financepro,FinancePro - NL
+https://www.telus.com/en/ns/business/small/financepro,FinancePro - NS
+https://www.telus.com/en/nt/business/small/financepro,FinancePro - NT
+https://www.telus.com/en/nu/business/small/financepro,FinancePro - NU
+https://www.telus.com/en/on/business/small/financepro,FinancePro - ON
+https://www.telus.com/en/pe/business/small/financepro,FinancePro - PE
+https://www.telus.com/en/qc/business/small/financepro,FinancePro - QC
+https://www.telus.com/en/sk/business/small/financepro,FinancePro - SK
+https://www.telus.com/en/yt/business/small/financepro,FinancePro - YT
+https://www.telus.com/en/ab/business/small/financeproform,FinancePro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/financeproform,FinancePro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/financeproform,FinancePro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/financeproform,FinancePro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/financeproform,FinancePro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/financeproform,FinancePro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/financeproform,FinancePro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/financeproform,FinancePro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/financeproform,FinancePro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/financeproform,FinancePro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/financeproform,FinancePro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/financeproform,FinancePro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/financeproform,FinancePro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/healthpro,HealthPro - AB
+https://www.telus.com/en/bc/business/small/healthpro,HealthPro - BC
+https://www.telus.com/en/mb/business/small/healthpro,HealthPro - MB
+https://www.telus.com/en/nb/business/small/healthpro,HealthPro - NB
+https://www.telus.com/en/nl/business/small/healthpro,HealthPro - NL
+https://www.telus.com/en/ns/business/small/healthpro,HealthPro - NS
+https://www.telus.com/en/nt/business/small/healthpro,HealthPro - NT
+https://www.telus.com/en/nu/business/small/healthpro,HealthPro - NU
+https://www.telus.com/en/on/business/small/healthpro,HealthPro - ON
+https://www.telus.com/en/pe/business/small/healthpro,HealthPro - PE
+https://www.telus.com/en/qc/business/small/healthpro,HealthPro - QC
+https://www.telus.com/en/sk/business/small/healthpro,HealthPro - SK
+https://www.telus.com/en/yt/business/small/healthpro,HealthPro - YT
+https://www.telus.com/en/ab/business/small/healthproform,HealthPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/healthproform,HealthPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/healthproform,HealthPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/healthproform,HealthPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/healthproform,HealthPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/healthproform,HealthPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/healthproform,HealthPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/healthproform,HealthPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/healthproform,HealthPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/healthproform,HealthPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/healthproform,HealthPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/healthproform,HealthPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/healthproform,HealthPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/manufacturingpro,ManufacturingPro - AB
+https://www.telus.com/en/bc/business/small/manufacturingpro,ManufacturingPro - BC
+https://www.telus.com/en/mb/business/small/manufacturingpro,ManufacturingPro - MB
+https://www.telus.com/en/nb/business/small/manufacturingpro,ManufacturingPro - NB
+https://www.telus.com/en/nl/business/small/manufacturingpro,ManufacturingPro - NL
+https://www.telus.com/en/ns/business/small/manufacturingpro,ManufacturingPro - NS
+https://www.telus.com/en/nt/business/small/manufacturingpro,ManufacturingPro - NT
+https://www.telus.com/en/nu/business/small/manufacturingpro,ManufacturingPro - NU
+https://www.telus.com/en/on/business/small/manufacturingpro,ManufacturingPro - ON
+https://www.telus.com/en/pe/business/small/manufacturingpro,ManufacturingPro - PE
+https://www.telus.com/en/qc/business/small/manufacturingpro,ManufacturingPro - QC
+https://www.telus.com/en/sk/business/small/manufacturingpro,ManufacturingPro - SK
+https://www.telus.com/en/yt/business/small/manufacturingpro,ManufacturingPro - YT
+https://www.telus.com/en/ab/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/manufacturingproform,ManufacturingPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/restaurants,RestaurantPro - AB
+https://www.telus.com/en/bc/business/small/restaurants,RestaurantPro - BC
+https://www.telus.com/en/mb/business/small/restaurants,RestaurantPro - MB
+https://www.telus.com/en/nb/business/small/restaurants,RestaurantPro - NB
+https://www.telus.com/en/nl/business/small/restaurants,RestaurantPro - NL
+https://www.telus.com/en/ns/business/small/restaurants,RestaurantPro - NS
+https://www.telus.com/en/nt/business/small/restaurants,RestaurantPro - NT
+https://www.telus.com/en/nu/business/small/restaurants,RestaurantPro - NU
+https://www.telus.com/en/on/business/small/restaurants,RestaurantPro - ON
+https://www.telus.com/en/pe/business/small/restaurants,RestaurantPro - PE
+https://www.telus.com/en/qc/business/small/restaurants,RestaurantPro - QC
+https://www.telus.com/en/sk/business/small/restaurants,RestaurantPro - SK
+https://www.telus.com/en/yt/business/small/restaurants,RestaurantPro - YT
+https://www.telus.com/en/ab/business/small/restaurantsproform,RestaurantPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/restaurantsproform,RestaurantPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/restaurantsproform,RestaurantPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/restaurantsproform,RestaurantPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/restaurantsproform,RestaurantPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/restaurantsproform,RestaurantPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/restaurantsproform,RestaurantPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/restaurantsproform,RestaurantPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/restaurantsproform,RestaurantPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/restaurantsproform,RestaurantPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/restaurantsproform,RestaurantPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/restaurantsproform,RestaurantPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/restaurantsproform,RestaurantPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/retailpro,RetailPro - AB
+https://www.telus.com/en/bc/business/small/retailpro,RetailPro - BC
+https://www.telus.com/en/mb/business/small/retailpro,RetailPro - MB
+https://www.telus.com/en/nb/business/small/retailpro,RetailPro - NB
+https://www.telus.com/en/nl/business/small/retailpro,RetailPro - NL
+https://www.telus.com/en/ns/business/small/retailpro,RetailPro - NS
+https://www.telus.com/en/nt/business/small/retailpro,RetailPro - NT
+https://www.telus.com/en/nu/business/small/retailpro,RetailPro - NU
+https://www.telus.com/en/on/business/small/retailpro,RetailPro - ON
+https://www.telus.com/en/pe/business/small/retailpro,RetailPro - PE
+https://www.telus.com/en/qc/business/small/retailpro,RetailPro - QC
+https://www.telus.com/en/sk/business/small/retailpro,RetailPro - SK
+https://www.telus.com/en/yt/business/small/retailpro,RetailPro - YT
+https://www.telus.com/en/ab/business/small/retailproform,RetailPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/retailproform,RetailPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/retailproform,RetailPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/retailproform,RetailPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/retailproform,RetailPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/retailproform,RetailPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/retailproform,RetailPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/retailproform,RetailPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/retailproform,RetailPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/retailproform,RetailPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/retailproform,RetailPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/retailproform,RetailPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/retailproform,RetailPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/servicepro,ServicePro - AB
+https://www.telus.com/en/bc/business/small/servicepro,ServicePro - BC
+https://www.telus.com/en/mb/business/small/servicepro,ServicePro - MB
+https://www.telus.com/en/nb/business/small/servicepro,ServicePro - NB
+https://www.telus.com/en/nl/business/small/servicepro,ServicePro - NL
+https://www.telus.com/en/ns/business/small/servicepro,ServicePro - NS
+https://www.telus.com/en/nt/business/small/servicepro,ServicePro - NT
+https://www.telus.com/en/nu/business/small/servicepro,ServicePro - NU
+https://www.telus.com/en/on/business/small/servicepro,ServicePro - ON
+https://www.telus.com/en/pe/business/small/servicepro,ServicePro - PE
+https://www.telus.com/en/qc/business/small/servicepro,ServicePro - QC
+https://www.telus.com/en/sk/business/small/servicepro,ServicePro - SK
+https://www.telus.com/en/yt/business/small/servicepro,ServicePro - YT
+https://www.telus.com/en/ab/business/small/serviceproform,ServicePro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/serviceproform,ServicePro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/serviceproform,ServicePro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/serviceproform,ServicePro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/serviceproform,ServicePro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/serviceproform,ServicePro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/serviceproform,ServicePro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/serviceproform,ServicePro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/serviceproform,ServicePro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/serviceproform,ServicePro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/serviceproform,ServicePro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/serviceproform,ServicePro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/serviceproform,ServicePro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/transportationpro,TrasportationPro - AB
+https://www.telus.com/en/bc/business/small/transportationpro,TrasportationPro - BC
+https://www.telus.com/en/mb/business/small/transportationpro,TrasportationPro - MB
+https://www.telus.com/en/nb/business/small/transportationpro,TrasportationPro - NB
+https://www.telus.com/en/nl/business/small/transportationpro,TrasportationPro - NL
+https://www.telus.com/en/ns/business/small/transportationpro,TrasportationPro - NS
+https://www.telus.com/en/nt/business/small/transportationpro,TrasportationPro - NT
+https://www.telus.com/en/nu/business/small/transportationpro,TrasportationPro - NU
+https://www.telus.com/en/on/business/small/transportationpro,TrasportationPro - ON
+https://www.telus.com/en/pe/business/small/transportationpro,TrasportationPro - PE
+https://www.telus.com/en/qc/business/small/transportationpro,TrasportationPro - QC
+https://www.telus.com/en/sk/business/small/transportationpro,TrasportationPro - SK
+https://www.telus.com/en/yt/business/small/transportationpro,TrasportationPro - YT
+https://www.telus.com/en/ab/business/small/transportationproform,TrasportationPro Lead Capture Form - AB
+https://www.telus.com/en/bc/business/small/transportationproform,TrasportationPro Lead Capture Form - BC
+https://www.telus.com/en/mb/business/small/transportationproform,TrasportationPro Lead Capture Form - MB
+https://www.telus.com/en/nb/business/small/transportationproform,TrasportationPro Lead Capture Form - NB
+https://www.telus.com/en/nl/business/small/transportationproform,TrasportationPro Lead Capture Form - NL
+https://www.telus.com/en/ns/business/small/transportationproform,TrasportationPro Lead Capture Form - NS
+https://www.telus.com/en/nt/business/small/transportationproform,TrasportationPro Lead Capture Form - NT
+https://www.telus.com/en/nu/business/small/transportationproform,TrasportationPro Lead Capture Form - NU
+https://www.telus.com/en/on/business/small/transportationproform,TrasportationPro Lead Capture Form - ON
+https://www.telus.com/en/pe/business/small/transportationproform,TrasportationPro Lead Capture Form - PE
+https://www.telus.com/en/qc/business/small/transportationproform,TrasportationPro Lead Capture Form - QC
+https://www.telus.com/en/sk/business/small/transportationproform,TrasportationPro Lead Capture Form - SK
+https://www.telus.com/en/yt/business/small/transportationproform,TrasportationPro Lead Capture Form - YT
+https://www.telus.com/en/ab/business/small/bundles/industries,Bundles by Industry - AB
+https://www.telus.com/en/bc/business/small/bundles/industries,Bundles by Industry - BC
+https://www.telus.com/en/mb/business/small/bundles/industries,Bundles by Industry - MB
+https://www.telus.com/en/nb/business/small/bundles/industries,Bundles by Industry - NB
+https://www.telus.com/en/nl/business/small/bundles/industries,Bundles by Industry - NL
+https://www.telus.com/en/ns/business/small/bundles/industries,Bundles by Industry - NS
+https://www.telus.com/en/nt/business/small/bundles/industries,Bundles by Industry - NT
+https://www.telus.com/en/nu/business/small/bundles/industries,Bundles by Industry - NU
+https://www.telus.com/en/on/business/small/bundles/industries,Bundles by Industry - ON
+https://www.telus.com/en/pe/business/small/bundles/industries,Bundles by Industry - PE
+https://www.telus.com/en/qc/business/small/bundles/industries,Bundles by Industry - QC
+https://www.telus.com/en/sk/business/small/bundles/industries,Bundles by Industry - SK
+https://www.telus.com/en/yt/business/small/bundles/industries,Bundles by Industry - YT
+https://www.telus.com/en/ab/business/small/security/cybersecurity,Cybersecurity - AB
+https://www.telus.com/en/bc/business/small/security/cybersecurity,Cybersecurity - BC
+https://www.telus.com/en/mb/business/small/security/cybersecurity,Cybersecurity - MB
+https://www.telus.com/en/nb/business/small/security/cybersecurity,Cybersecurity - NB
+https://www.telus.com/en/nl/business/small/security/cybersecurity,Cybersecurity - NL
+https://www.telus.com/en/ns/business/small/security/cybersecurity,Cybersecurity - NS
+https://www.telus.com/en/nt/business/small/security/cybersecurity,Cybersecurity - NT
+https://www.telus.com/en/nu/business/small/security/cybersecurity,Cybersecurity - NU
+https://www.telus.com/en/on/business/small/security/cybersecurity,Cybersecurity - ON
+https://www.telus.com/en/pe/business/small/security/cybersecurity,Cybersecurity - PE
+https://www.telus.com/en/qc/business/small/security/cybersecurity,Cybersecurity - QC
+https://www.telus.com/en/sk/business/small/security/cybersecurity,Cybersecurity - SK
+https://www.telus.com/en/yt/business/small/security/cybersecurity,Cybersecurity - YT
+https://www.telus.com/en/ab/business/small/internet/fibre-expansion-on,Business Falcon page - AB
+https://www.telus.com/en/bc/business/small/internet/fibre-expansion-on,Business Falcon page - BC
+https://www.telus.com/en/mb/business/small/internet/fibre-expansion-on,Business Falcon page - MB
+https://www.telus.com/en/nb/business/small/internet/fibre-expansion-on,Business Falcon page - NB
+https://www.telus.com/en/nl/business/small/internet/fibre-expansion-on,Business Falcon page - NL
+https://www.telus.com/en/ns/business/small/internet/fibre-expansion-on,Business Falcon page - NS
+https://www.telus.com/en/nt/business/small/internet/fibre-expansion-on,Business Falcon page - NT
+https://www.telus.com/en/nu/business/small/internet/fibre-expansion-on,Business Falcon page - NU
+https://www.telus.com/en/on/business/small/internet/fibre-expansion-on,Business Falcon page - ON
+https://www.telus.com/en/pe/business/small/internet/fibre-expansion-on,Business Falcon page - PE
+https://www.telus.com/en/qc/business/small/internet/fibre-expansion-on,Business Falcon page - QC
+https://www.telus.com/en/sk/business/small/internet/fibre-expansion-on,Business Falcon page - SK
+https://www.telus.com/en/yt/business/small/internet/fibre-expansion-on,Business Falcon page - YT
+https://www.telus.com/en/ab/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - AB
+https://www.telus.com/en/bc/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - BC
+https://www.telus.com/en/mb/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - MB
+https://www.telus.com/en/nb/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - NB
+https://www.telus.com/en/nl/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - NL
+https://www.telus.com/en/ns/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - NS
+https://www.telus.com/en/nt/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - NT
+https://www.telus.com/en/nu/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - NU
+https://www.telus.com/en/on/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - ON
+https://www.telus.com/en/pe/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - PE
+https://www.telus.com/en/qc/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - QC
+https://www.telus.com/en/sk/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - SK
+https://www.telus.com/en/yt/business/small/internet/fibre-expansion-on-form,FibreExpansion ON - YT
+https://www.telus.com/en/ab/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - AB
+https://www.telus.com/en/bc/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - BC
+https://www.telus.com/en/mb/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - MB
+https://www.telus.com/en/nb/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - NB
+https://www.telus.com/en/nl/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - NL
+https://www.telus.com/en/ns/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - NS
+https://www.telus.com/en/nt/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - NT
+https://www.telus.com/en/nu/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - NU
+https://www.telus.com/en/on/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - ON
+https://www.telus.com/en/pe/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - PE
+https://www.telus.com/en/qc/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - QC
+https://www.telus.com/en/sk/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - SK
+https://www.telus.com/en/yt/business/small/fmasroffer,Fully Managed External Cyber Risk Assessment Form - YT
+https://www.telus.com/en/ab/business/small/cloud/fully-managed/legal,IT Fully Managed - AB
+https://www.telus.com/en/bc/business/small/cloud/fully-managed/legal,IT Fully Managed - BC
+https://www.telus.com/en/mb/business/small/cloud/fully-managed/legal,IT Fully Managed - MB
+https://www.telus.com/en/nb/business/small/cloud/fully-managed/legal,IT Fully Managed - NB
+https://www.telus.com/en/nl/business/small/cloud/fully-managed/legal,IT Fully Managed - NL
+https://www.telus.com/en/ns/business/small/cloud/fully-managed/legal,IT Fully Managed - NS
+https://www.telus.com/en/nt/business/small/cloud/fully-managed/legal,IT Fully Managed - NT
+https://www.telus.com/en/nu/business/small/cloud/fully-managed/legal,IT Fully Managed - NU
+https://www.telus.com/en/on/business/small/cloud/fully-managed/legal,IT Fully Managed - ON
+https://www.telus.com/en/pe/business/small/cloud/fully-managed/legal,IT Fully Managed - PE
+https://www.telus.com/en/qc/business/small/cloud/fully-managed/legal,IT Fully Managed - QC
+https://www.telus.com/en/sk/business/small/cloud/fully-managed/legal,IT Fully Managed - SK
+https://www.telus.com/en/yt/business/small/cloud/fully-managed/legal,IT Fully Managed - YT
+https://www.telus.com/en/ab/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - AB
+https://www.telus.com/en/bc/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - BC
+https://www.telus.com/en/mb/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - MB
+https://www.telus.com/en/nb/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - NB
+https://www.telus.com/en/nl/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - NL
+https://www.telus.com/en/ns/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - NS
+https://www.telus.com/en/nt/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - NT
+https://www.telus.com/en/nu/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - NU
+https://www.telus.com/en/on/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - ON
+https://www.telus.com/en/pe/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - PE
+https://www.telus.com/en/qc/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - QC
+https://www.telus.com/en/sk/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - SK
+https://www.telus.com/en/yt/business/small/deals-and-offers/offer-signup,Black Friday savings for your business - YT
+https://www.telus.com/en/ab/business/small/campaigns/stand-with-owners,Shop with Owners - AB
+https://www.telus.com/en/bc/business/small/campaigns/stand-with-owners,Shop with Owners - BC
+https://www.telus.com/en/mb/business/small/campaigns/stand-with-owners,Shop with Owners - MB
+https://www.telus.com/en/nb/business/small/campaigns/stand-with-owners,Shop with Owners - NB
+https://www.telus.com/en/nl/business/small/campaigns/stand-with-owners,Shop with Owners - NL
+https://www.telus.com/en/ns/business/small/campaigns/stand-with-owners,Shop with Owners - NS
+https://www.telus.com/en/nt/business/small/campaigns/stand-with-owners,Shop with Owners - NT
+https://www.telus.com/en/nu/business/small/campaigns/stand-with-owners,Shop with Owners - NU
+https://www.telus.com/en/on/business/small/campaigns/stand-with-owners,Shop with Owners - ON
+https://www.telus.com/en/pe/business/small/campaigns/stand-with-owners,Shop with Owners - PE
+https://www.telus.com/en/qc/business/small/campaigns/stand-with-owners,Shop with Owners - QC
+https://www.telus.com/en/sk/business/small/campaigns/stand-with-owners,Shop with Owners - SK
+https://www.telus.com/en/yt/business/small/campaigns/stand-with-owners,Shop with Owners - YT
+https://www.telus.com/en/ab/business/small/internet/smart-hub,Smart Hub page - AB
+https://www.telus.com/en/bc/business/small/internet/smart-hub,Smart Hub page - BC
+https://www.telus.com/en/mb/business/small/internet/smart-hub,Smart Hub page - MB
+https://www.telus.com/en/nb/business/small/internet/smart-hub,Smart Hub page - NB
+https://www.telus.com/en/nl/business/small/internet/smart-hub,Smart Hub page - NL
+https://www.telus.com/en/ns/business/small/internet/smart-hub,Smart Hub page - NS
+https://www.telus.com/en/nt/business/small/internet/smart-hub,Smart Hub page - NT
+https://www.telus.com/en/nu/business/small/internet/smart-hub,Smart Hub page - NU
+https://www.telus.com/en/on/business/small/internet/smart-hub,Smart Hub page - ON
+https://www.telus.com/en/pe/business/small/internet/smart-hub,Smart Hub page - PE
+https://www.telus.com/en/qc/business/small/internet/smart-hub,Smart Hub page - QC
+https://www.telus.com/en/sk/business/small/internet/smart-hub,Smart Hub page - SK
+https://www.telus.com/en/yt/business/small/internet/smart-hub,Smart Hub page - YT

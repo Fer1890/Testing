@@ -1,0 +1,10 @@
+{
+    "input_urls_file": "input_urls.csv",
+    "input_phrases_file": "search_phrases.csv",
+    "concurrent_limit": 2,
+    "timeout": 30000,
+    "max_retries": 3,
+    "retry_delay": 2,
+    "save_batch_size": 2000,
+    "debug_mode": true
+}
